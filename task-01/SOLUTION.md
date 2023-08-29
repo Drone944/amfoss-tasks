@@ -33,4 +33,7 @@ The final code contatenating the 4 parts of the code is aHR0cHM6Ly9naXRodWIuY29t
 When you navigate to that link you are asked to clone that github page an run a python file, TheOneThatEndsItAll.py
 When you run that python file you will get a message:
 ![Screenshot from 2023-08-29 10-15-14](https://github.com/Drone944/amfoss-tasks/assets/128592336/323c2baa-6af8-4fbd-ba29-650a6809e79e)
+
+After that I pushed the codes folder to my amfoss-tasks repository in task-01 folder.
+![Screenshot from 2023-08-29 16-34-24](https://github.com/Drone944/amfoss-tasks/assets/128592336/a3b56869-be21-4d5c-8b39-78e14517f48a)
 And that's it. I have successfully completed task-01, Terminal Wizard.
