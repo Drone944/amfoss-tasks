@@ -1,0 +1,161 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 2. v2.0 | 20110126
+  License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+@font-face{
+  font-family: "GraffitiPaintBrush";
+  src: url(assets/Graffitipaintbrush.ttf);
+}
+@font-face{
+  font-family: "PoppinsRegular";
+  src: url("assets/Poppins-Regular.ttf");
+}
+@font-face{
+  font-family: "RobotoCondensed";
+  src: url("assets/RobotoCondensed-Regular.ttf");
+}
+.backimg {
+  background-image: url("./assets/backdrop.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}
+.name{
+  height: 100px;
+  position: absolute;
+  left: 455px;
+  bottom: 150px;
+}
+.weare{
+  font-family: "GraffitiPaintBrush";
+  font-weight: bold;
+  font-size: 64px;
+  color: white;
+  position: absolute;
+  left: 820px;
+  bottom: 235px;
+}
+.Expbtn{
+  font-family: "RobotoCondensed";
+  font-weight: bold;
+  position: absolute;
+  left: 775px;
+  bottom: 80px;
+  background: #2BDAE1;
+  width: 200px;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: left;
+  text-decoration: none;
+  font-size: 27px;
+  color: black;
+}
+.Arrow{
+  position: absolute;
+  left: 955px;
+  bottom: 89px;
+  cursor: pointer;
+}
+.Expbtn:hover{
+  transform: scale(1.1);
+}
+.iconimg{
+  height: 46px;
+}
+.logo{
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+.instagram{
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  height: 46px;
+}
+.twitter{
+  position: absolute;
+  top: 20px;
+  right: 120px;
+  height: 46px;
+}
+.youtube{
+  position: absolute;
+  top: 20px;
+  right: 220px;
+  height: 46px;
+}
+.spotify{
+  position: absolute;
+  top: 20px;
+  right: 320px;
+  height: 46px;
+}
+.spotify:hover{
+  transform: scale(1.2);
+}
+.instagram:hover{
+  transform: scale(1.2);
+}
+.twitter:hover{
+  transform: scale(1.2);
+}
+.youtube:hover{
+  transform: scale(1.2);
+}
+.logo:hover{
+  transform: scale(1.2);
+}
+.overlay{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 9%;
+  background: rgba(0,0,0,0.5);
+}
