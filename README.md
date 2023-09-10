@@ -12,7 +12,7 @@ I have always been passionate about coding. As I said I want to be a developer a
 
 ## WHAT'S YOUR PLAN FOR THE NEXT SIX MONTHS ?
 
-I want to develop my coding skills and to be a developer I have to learn many more languages as well. I want to explore all the fields in the vast area of computer science and its branches and look into which all things should I learn and how would it help me. I want to set a clear goal about my career and where I want to be and work hard to reach there.
+I want to develop my coding skills and to be a developer. I have to learn many more languages as well. I want to explore all the fields in the vast area of computer science and its branches and look into which all things should I learn and how would it help me. I want to set a clear goal about my career and where I want to be and work hard to reach there.
 
 ## HOW WOULD YOU CONTRIBUTE BACK TO THE CLUB ?
 
