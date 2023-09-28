@@ -1,0 +1,10 @@
+{
+	"manifest_version": 3,
+	"name": "Find Weather",
+	"description": "The perfect weather doesn't exis...",
+	"version": "0.0.1",
+	"action": {
+		"default_popup": "hello.html",
+		"default_icon": "assets/logo.png"
+	}
+}
