@@ -28,7 +28,7 @@ The number of horcruxes made by Voldemort is 7 and the only number that has same
 
 ## THE END
 
-The final code contatenating the 4 parts of the code is aHR0cHM6Ly9naXRodWIuY29tL1RoZUh1bnRzbWFuNC9UaGVGaW5hbFNwZWxs , which when we use a base64 decoser we will get a link: https://github.com/TheHuntsman4/TheFinalSpell
+The final code contatenating the 4 parts of the code is aHR0cHM6Ly9naXRodWIuY29tL1RoZUh1bnRzbWFuNC9UaGVGaW5hbFNwZWxs , which when we use a base64 decoder we will get a link: https://github.com/TheHuntsman4/TheFinalSpell
 ![Screenshot from 2023-08-29 10-11-14](https://github.com/Drone944/amfoss-tasks/assets/128592336/7e73792a-590f-453d-aec1-860a9f75c331)
 When you navigate to that link you are asked to clone that github page an run a python file, TheOneThatEndsItAll.py
 When you run that python file you will get a message:

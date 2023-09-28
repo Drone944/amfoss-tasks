@@ -20,5 +20,5 @@ btn.addEventListener('click',function(e)
 			document.getElementById("c_type").innerHTML = jsonData.weather[0].description
 
 		})
-		.catch(error => console.error(error));
+		.catch(error => document.getElementById("place").innerHTML = "Place not found");
 	})

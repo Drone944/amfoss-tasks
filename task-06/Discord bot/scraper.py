@@ -17,7 +17,7 @@ def onStart():
 	b2=b1.get_text()
 	d=str(date.today())
 
-	f=open("livescore.csv",'w')
+	f=open("livescore.csv",'a')
 
 	for j in range(1,len(a2)):
 		if a2[j].isupper():
