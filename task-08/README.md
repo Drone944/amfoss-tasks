@@ -11,5 +11,5 @@ After that, I defined another function which is called when the capture button i
 Then, I defined another function which is called when the display button is clicked. It creates a popup window, which is done by using QDialog. Two buttons 'next' and 'previous' are displayed on the window.
 The 'Next' button reveals the next Pokémon that the user has captured, while the 'Previous' button displays the previous one.. This is done by putting all the file locations of the pngs(captured/NAME.png) in a list and iterating through the list using the indices.
 
-Then I tried to add background image. At first the setStyleSheet didn't work as the background image appeared distorted as i was acting as the background images for all the widgets. I asked my friend who finished this task about the nackground image and he specified about "QPalette".
+Then I tried to add background image. At first the setStyleSheet didn't work as the background image appeared distorted as it was acting as the background images for all the widgets. I asked my friend who finished this task about the nackground image and he specified about "QPalette".
 So I googled ,how to use QPalette, and setup the Background image and completed the task.
