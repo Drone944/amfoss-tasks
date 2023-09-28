@@ -1,4 +1,4 @@
-#POKE_SEARCH
+# POKE-SEARCH
 
 I haven't heard about pyside6 and qt before, so I looked it up in google and read some stuff about it.
 Then I followed all the installation guides given in the github repo. After that I went to the poke api website, got the api and used  the requests module to get the data of pikachu.
