@@ -1,4 +1,0 @@
-# Euler
-
-I did not complete this task.
-
