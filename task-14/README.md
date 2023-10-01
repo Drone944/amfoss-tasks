@@ -1,6 +1,6 @@
 # BANDIT
 
-0 -> I connected to their server using ssh.
+Level 0 -> I connected to their server using ssh.
 
 ![Screenshot from 2023-09-28 23-19-10](https://github.com/Drone944/amfoss-tasks/assets/128592336/97e3e54b-4b68-4d35-8cd2-73ff7881637f)
 
